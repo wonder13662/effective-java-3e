@@ -1,4 +1,4 @@
-package item42;
+package chapter7.item42;
 
 import java.util.function.DoubleBinaryOperator;
 

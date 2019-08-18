@@ -1,4 +1,4 @@
-package item42;
+package chapter7.item42;
 
 public class Item42_3 {
 
